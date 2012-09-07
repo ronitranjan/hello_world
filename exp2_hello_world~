@@ -1,8 +1,0 @@
-hello world
-<<<<<<< HEAD
-modified from exp3 local repo on branch exp2
-=======
-modified from exp3 local branch in repo_fetch
-
-from exp3
->>>>>>> origin/master
